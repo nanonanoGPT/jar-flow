@@ -7,7 +7,5 @@ jalankan perintah
 
 
 ``
-
 nanonano@root# java -jar flow.jar
-
 ``
