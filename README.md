@@ -2,7 +2,8 @@
 
 
 runing di cmd
-
+buka cmd pada lokasi file
+jalankan perintah
 ``
-java -jar flow.jar
+nanonano@root# java -jar flow.jar
 ``
